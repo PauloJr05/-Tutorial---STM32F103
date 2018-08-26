@@ -112,7 +112,7 @@ int main(void)
   while (1)
   {
 
-	  HAL_GPIO_TogglePin(GPIOC,GPIO_PIN_13); // LED de usuario da board
+	  HAL_GPIO_TogglePin(GPIOC,GPIO_PIN_13); // LED de usuario da board PC13
 	  HAL_Delay(50);
   }
   /* USER CODE END 3 */
