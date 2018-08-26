@@ -115,7 +115,7 @@ int main(void)
   {
 
   /* USER CODE END WHILE */
-	  if(HAL_GPIO_ReadPin(PushButton_GPIO_Port,PushButton_Pin)){
+	  if(HAL_GPIO_ReadPin(PushButton_GPIO_Port,PushButton_Pin)){ //leitura do botão
 		  HAL_GPIO_WritePin(LED_PC13_GPIO_Port,LED_PC13_Pin,GPIO_PIN_SET);
 
 	  }else {
