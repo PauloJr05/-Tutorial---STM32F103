@@ -4,3 +4,5 @@ Esse tutorial contém o código e o embasamento teorico
 
 
 Link do conteudo teorico de cada tutorial : https://www.evernote.com/pub/paulohenriquebonfimjr/tutorialstm32f1
+
+Obs.: Para acessar o conteúdo desse tutorial é necessário uma conta no Evernote
